@@ -1,7 +1,7 @@
 
 # Hi there, I'm Zainab! 👋
 
-![Banner Image](https://i.pinimg.com/736x/80/58/e4/8058e44a4d676aed0ba3ab32bdaaf736.jpg)
+![Banner Image](https://i.pinimg.com/736x/58/e6/ea/58e6ea3bf241bc66143291f8d34059c2.jpg)
 
 ## About Me 🚀
 
