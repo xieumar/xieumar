@@ -8,7 +8,7 @@
 I'm a passionate **frontend developer** with experience in **vanilla javascript and react**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
 - 🌱 Currently learning: **React, Three.js**
-- 🌍 Languages: ****
+- 🌍 Languages: **Javascript, C++, English et un peu francais**
 - 📫 How to reach me: **xieumar@gmail.com**
 - ⚡ Fun fact: **I bake sweet treats when I’m thinking through code, and can turn a map into a story—sometimes all in one weekend!**
 
