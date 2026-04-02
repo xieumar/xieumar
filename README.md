@@ -1,58 +1,83 @@
-# Hi there, I'm Zainab! 👋
+<img src="https://media0.giphy.com/media/Basrh159dGwKY/giphy.gif" width="100%" />
 
-![Banner](https://i.pinimg.com/1200x/e5/89/81/e589817c4b977a3a3c98a9a71e03bf08.jpg)
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 👩‍💻 About Me
+<div align="center">
 
-I'm a **Frontend Developer** focused on **React, Next.js, and React Native**. I enjoy building clean, scalable, and interactive interfaces while tackling real-world problems.  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=55&pause=1000&color=130047&center=true&vCenter=true&width=1200&height=200&lines=Zainab+Ibrahim;Frontend+Engineer;Based+in+Abuja;Building+clean+%26+scalable+interfaces;React+%7C+Next.js+%7C+TypeScript;Turning+ideas+into+real+products)](https://git.io/typing-svg)
 
-- 🌱 Currently learning: **Advanced React Patterns, Three.js**  
-- 💬 Languages: **JavaScript, TypeScript, C++, English, French (basic)**  
-- ⚡ Fun fact:  **Petting my cats makes debugging a little easier**  
-- 📫 Reach me: **[xieumar@gmail.com](mailto:xieumar@gmail.com)**  
+</div>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 🛠️ Skills
+<div align="center">
 
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white)
-![shadcn/ui](https://img.shields.io/badge/shadcn_ui-000000?style=flat-square&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Expo](https://img.shields.io/badge/Expo-000020?style=flat-square&logo=expo&logoColor=white)
-![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat-square&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+### About Me
+
+I build interfaces that are not just pretty, but usable, scalable, and fast.
+
+Currently building: Admin dashboards, SaaS platforms, mobile field apps  
+Currently learning: Three.js and advanced React patterns  
+Focus: Performance, UX, and clean architecture  
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+
+### My Streak
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=xieumar&background=ffffff&ring=2563eb&fire=2563eb&currStreakLabel=2563eb&sideLabels=2563eb&dates=2563eb&sideNums=2563eb&currStreakNum=2563eb&hide_border=true"/>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+
+### Tech Stack
+
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)
+![Zustand](https://img.shields.io/badge/zustand-000000?style=for-the-badge)
+![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+
+<div align="center">
+
+### Contributions
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=xieumar&theme=transparent&bg_color=ffffff&title_color=2563eb&icon_color=2563eb"/>
+
+</div>
+
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 
----
+<div align="center">
 
-## 💻 Projects in Progress
+### Connect
 
-I am currently building **high-impact projects** that showcase real-world frontend and mobile skills:
+[LinkedIn](https://www.linkedin.com/in/zainab-umar-ibrahim-48929b1ba/) • [Twitter](https://x.com/Xiaoma0_) • [Email](mailto:xieumar@gmail.com)
 
-1. **Admin Dashboard (Next.js)** – Role-based internal tool with CRUD, tables, and filters.  
-2. **SaaS Client Portal (Next.js)** – Subscription and billing dashboard with async state and UX focus.  
-3. **Mobile Field App (React Native / Expo)** – Offline-first task management app optimized for performance.
+</div>
 
-> These projects are in progress and will be deployed soon. Follow my repos for updates!
+<div align="center">
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-## 📫 Get in Touch
+<br/>
 
-- 🔗 LinkedIn: [linkedin.com/in/zainab-umar-ibrahim](https://www.linkedin.com/in/zainab-umar-ibrahim-48929b1ba/)  
-- 🐦 Twitter: [@Xiaoma0_](https://x.com/Xiaoma0_)  
-- 📧 Email: [xieumar@gmail.com](mailto:xieumar@gmail.com)  
+<sub>Evolving, improving, becoming better with every experience.</sub>
 
----
-
-> “Evolving, improving and becoming better with every experience.”
+</div>
